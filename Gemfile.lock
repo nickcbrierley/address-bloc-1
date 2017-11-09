@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nickcbrierley/bloc_record.git
-  revision: f6442f2ab1f981f9e7b2431406804c8c6b08714a
+  revision: 9e2cd9e6c2f5f651939e7fec391bb0654a3866ad
   specs:
     bloc_record (0.0.0)
       sqlite3 (~> 1.3)
